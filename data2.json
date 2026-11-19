@@ -1,0 +1,20 @@
+
+{
+    "artykuly": [
+        {
+            "id": 1,
+            "tytul": "Pierwszy artykul",
+            "tresc": "To jest tresc pierwszego artykulu."
+        },
+        {
+            "id": 2,
+            "tytul": "Drugi artykul",
+            "tresc": "To jest tresc drugiego artykulu."
+        },
+        {
+            "id": 3,
+            "tytul": "Trzeci artykul",
+            "tresc": "To jest tresc trzeciego artykulu."
+        }
+    ]
+}
